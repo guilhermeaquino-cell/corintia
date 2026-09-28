@@ -2,17 +2,7 @@
 
 
 
-boira bill
-
-cassio
-
-
-
-
-
-
-
-biroliro
+Isso é a pasta das aulas de Programação Estatística. Vai corintas. 
 
 
 
